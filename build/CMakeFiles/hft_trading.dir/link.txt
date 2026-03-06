@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_trading.a CMakeFiles/hft_trading.dir/src/trading/paper_trading.cpp.o CMakeFiles/hft_trading.dir/src/trading/live_trading.cpp.o CMakeFiles/hft_trading.dir/src/trading/trading_engine.cpp.o
+/usr/bin/ranlib libhft_trading.a

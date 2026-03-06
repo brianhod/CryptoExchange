@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_risk.a CMakeFiles/hft_risk.dir/src/risk/risk_manager.cpp.o CMakeFiles/hft_risk.dir/src/risk/position_limits.cpp.o CMakeFiles/hft_risk.dir/src/risk/pnl_tracker.cpp.o CMakeFiles/hft_risk.dir/src/risk/circuit_breaker.cpp.o
+/usr/bin/ranlib libhft_risk.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_config.a CMakeFiles/hft_config.dir/src/config/config_manager.cpp.o CMakeFiles/hft_config.dir/src/config/exchange_config.cpp.o CMakeFiles/hft_config.dir/src/config/strategy_config.cpp.o
+/usr/bin/ranlib libhft_config.a

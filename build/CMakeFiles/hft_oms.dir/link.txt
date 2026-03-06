@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_oms.a CMakeFiles/hft_oms.dir/src/oms/order.cpp.o CMakeFiles/hft_oms.dir/src/oms/order_manager.cpp.o CMakeFiles/hft_oms.dir/src/oms/position_manager.cpp.o CMakeFiles/hft_oms.dir/src/oms/execution_engine.cpp.o
+/usr/bin/ranlib libhft_oms.a

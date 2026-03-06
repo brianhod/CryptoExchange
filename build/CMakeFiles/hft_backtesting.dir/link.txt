@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_backtesting.a CMakeFiles/hft_backtesting.dir/src/backtesting/data_feed.cpp.o CMakeFiles/hft_backtesting.dir/src/backtesting/simulated_exchange.cpp.o CMakeFiles/hft_backtesting.dir/src/backtesting/performance_analyzer.cpp.o CMakeFiles/hft_backtesting.dir/src/backtesting/backtest_engine.cpp.o
+/usr/bin/ranlib libhft_backtesting.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_core.a CMakeFiles/hft_core.dir/src/core/lock_free_queue.cpp.o CMakeFiles/hft_core.dir/src/core/memory_pool.cpp.o CMakeFiles/hft_core.dir/src/core/timestamp.cpp.o CMakeFiles/hft_core.dir/src/core/logger.cpp.o CMakeFiles/hft_core.dir/src/core/thread_pool.cpp.o
+/usr/bin/ranlib libhft_core.a

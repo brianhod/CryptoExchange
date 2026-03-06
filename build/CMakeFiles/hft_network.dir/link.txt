@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_network.a CMakeFiles/hft_network.dir/src/network/websocket_client.cpp.o CMakeFiles/hft_network.dir/src/network/rest_client.cpp.o CMakeFiles/hft_network.dir/src/network/connection_pool.cpp.o
+/usr/bin/ranlib libhft_network.a

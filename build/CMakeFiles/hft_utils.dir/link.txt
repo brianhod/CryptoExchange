@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_utils.a CMakeFiles/hft_utils.dir/src/utils/crypto_utils.cpp.o CMakeFiles/hft_utils.dir/src/utils/string_utils.cpp.o CMakeFiles/hft_utils.dir/src/utils/math_utils.cpp.o
+/usr/bin/ranlib libhft_utils.a

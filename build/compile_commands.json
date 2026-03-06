@@ -1,0 +1,314 @@
+[
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_core.dir/src/core/lock_free_queue.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/lock_free_queue.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/lock_free_queue.cpp",
+  "output": "CMakeFiles/hft_core.dir/src/core/lock_free_queue.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_core.dir/src/core/memory_pool.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/memory_pool.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/memory_pool.cpp",
+  "output": "CMakeFiles/hft_core.dir/src/core/memory_pool.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_core.dir/src/core/timestamp.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/timestamp.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/timestamp.cpp",
+  "output": "CMakeFiles/hft_core.dir/src/core/timestamp.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_core.dir/src/core/logger.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/logger.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/logger.cpp",
+  "output": "CMakeFiles/hft_core.dir/src/core/logger.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_core.dir/src/core/thread_pool.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/thread_pool.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/core/thread_pool.cpp",
+  "output": "CMakeFiles/hft_core.dir/src/core/thread_pool.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_utils.dir/src/utils/crypto_utils.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/crypto_utils.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/crypto_utils.cpp",
+  "output": "CMakeFiles/hft_utils.dir/src/utils/crypto_utils.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_utils.dir/src/utils/string_utils.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/string_utils.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/string_utils.cpp",
+  "output": "CMakeFiles/hft_utils.dir/src/utils/string_utils.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_utils.dir/src/utils/math_utils.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/math_utils.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/utils/math_utils.cpp",
+  "output": "CMakeFiles/hft_utils.dir/src/utils/math_utils.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_network.dir/src/network/websocket_client.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/websocket_client.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/websocket_client.cpp",
+  "output": "CMakeFiles/hft_network.dir/src/network/websocket_client.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_network.dir/src/network/rest_client.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/rest_client.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/rest_client.cpp",
+  "output": "CMakeFiles/hft_network.dir/src/network/rest_client.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_network.dir/src/network/connection_pool.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/connection_pool.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/network/connection_pool.cpp",
+  "output": "CMakeFiles/hft_network.dir/src/network/connection_pool.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/exchange_base.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/exchange_base.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/exchange_base.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/exchange_base.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/exchange_factory.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/exchange_factory.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/exchange_factory.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/exchange_factory.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/binance.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/binance.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/binance.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/binance.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/bybit.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/bybit.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/bybit.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/bybit.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/okx.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/okx.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/okx.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/okx.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/kraken.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/kraken.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/kraken.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/kraken.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/coinbase.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/coinbase.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/coinbase.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/coinbase.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/kucoin.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/kucoin.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/kucoin.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/kucoin.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/gateio.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/gateio.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/gateio.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/gateio.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/bitfinex.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/bitfinex.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/bitfinex.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/bitfinex.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/deribit.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/deribit.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/deribit.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/deribit.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_exchange.dir/src/exchange/htx.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/htx.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/exchange/htx.cpp",
+  "output": "CMakeFiles/hft_exchange.dir/src/exchange/htx.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_oms.dir/src/oms/order.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/order.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/order.cpp",
+  "output": "CMakeFiles/hft_oms.dir/src/oms/order.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_oms.dir/src/oms/order_manager.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/order_manager.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/order_manager.cpp",
+  "output": "CMakeFiles/hft_oms.dir/src/oms/order_manager.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_oms.dir/src/oms/position_manager.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/position_manager.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/position_manager.cpp",
+  "output": "CMakeFiles/hft_oms.dir/src/oms/position_manager.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_oms.dir/src/oms/execution_engine.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/execution_engine.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/oms/execution_engine.cpp",
+  "output": "CMakeFiles/hft_oms.dir/src/oms/execution_engine.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_risk.dir/src/risk/risk_manager.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/risk_manager.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/risk_manager.cpp",
+  "output": "CMakeFiles/hft_risk.dir/src/risk/risk_manager.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_risk.dir/src/risk/position_limits.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/position_limits.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/position_limits.cpp",
+  "output": "CMakeFiles/hft_risk.dir/src/risk/position_limits.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_risk.dir/src/risk/pnl_tracker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/pnl_tracker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/pnl_tracker.cpp",
+  "output": "CMakeFiles/hft_risk.dir/src/risk/pnl_tracker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_risk.dir/src/risk/circuit_breaker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/circuit_breaker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/risk/circuit_breaker.cpp",
+  "output": "CMakeFiles/hft_risk.dir/src/risk/circuit_breaker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/hft/latency_arbitrage.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/latency_arbitrage.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/latency_arbitrage.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/hft/latency_arbitrage.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/hft/triangular_arbitrage.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/triangular_arbitrage.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/triangular_arbitrage.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/hft/triangular_arbitrage.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/hft/statistical_arbitrage.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/statistical_arbitrage.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/statistical_arbitrage.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/hft/statistical_arbitrage.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/hft/momentum_ignition.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/momentum_ignition.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/momentum_ignition.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/hft/momentum_ignition.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/hft/order_flow_imbalance.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/order_flow_imbalance.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/hft/order_flow_imbalance.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/hft/order_flow_imbalance.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/market_making/basic_market_maker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/basic_market_maker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/basic_market_maker.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/market_making/basic_market_maker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/market_making/adaptive_market_maker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/adaptive_market_maker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/adaptive_market_maker.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/market_making/adaptive_market_maker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/market_making/inventory_market_maker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/inventory_market_maker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/inventory_market_maker.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/market_making/inventory_market_maker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/market_making/grid_market_maker.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/grid_market_maker.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/grid_market_maker.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/market_making/grid_market_maker.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_strategies.dir/src/strategies/market_making/avellaneda_stoikov.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/avellaneda_stoikov.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/strategies/market_making/avellaneda_stoikov.cpp",
+  "output": "CMakeFiles/hft_strategies.dir/src/strategies/market_making/avellaneda_stoikov.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_backtesting.dir/src/backtesting/data_feed.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/data_feed.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/data_feed.cpp",
+  "output": "CMakeFiles/hft_backtesting.dir/src/backtesting/data_feed.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_backtesting.dir/src/backtesting/simulated_exchange.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/simulated_exchange.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/simulated_exchange.cpp",
+  "output": "CMakeFiles/hft_backtesting.dir/src/backtesting/simulated_exchange.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_backtesting.dir/src/backtesting/performance_analyzer.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/performance_analyzer.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/performance_analyzer.cpp",
+  "output": "CMakeFiles/hft_backtesting.dir/src/backtesting/performance_analyzer.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_backtesting.dir/src/backtesting/backtest_engine.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/backtest_engine.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/backtesting/backtest_engine.cpp",
+  "output": "CMakeFiles/hft_backtesting.dir/src/backtesting/backtest_engine.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_trading.dir/src/trading/paper_trading.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/paper_trading.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/paper_trading.cpp",
+  "output": "CMakeFiles/hft_trading.dir/src/trading/paper_trading.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_trading.dir/src/trading/live_trading.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/live_trading.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/live_trading.cpp",
+  "output": "CMakeFiles/hft_trading.dir/src/trading/live_trading.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_trading.dir/src/trading/trading_engine.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/trading_engine.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/trading/trading_engine.cpp",
+  "output": "CMakeFiles/hft_trading.dir/src/trading/trading_engine.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_config.dir/src/config/config_manager.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/config_manager.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/config_manager.cpp",
+  "output": "CMakeFiles/hft_config.dir/src/config/config_manager.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_config.dir/src/config/exchange_config.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/exchange_config.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/exchange_config.cpp",
+  "output": "CMakeFiles/hft_config.dir/src/config/exchange_config.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++  -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/hft_config.dir/src/config/strategy_config.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/strategy_config.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/config/strategy_config.cpp",
+  "output": "CMakeFiles/hft_config.dir/src/config/strategy_config.cpp.o"
+},
+{
+  "directory": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -march=native -ffast-math -funroll-loops -flto -o CMakeFiles/crypto_hft.dir/src/main.cpp.o -c /home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/main.cpp",
+  "file": "/home/pranay-hft/Desktop/_2_past_freelance_projects/crypto_multiexchange_HFT_system_C++/src/main.cpp",
+  "output": "CMakeFiles/crypto_hft.dir/src/main.cpp.o"
+}
+]
