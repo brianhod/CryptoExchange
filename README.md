@@ -1,6 +1,6 @@
 # Crypto HFT System
 
-Institutional-grade multi-exchange cryptocurrency high-frequency trading system.
+Multi-exchange cryptocurrency high-frequency trading system.
 
 ## Features
 
